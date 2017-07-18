@@ -1,4 +1,4 @@
-# ReactReduxCiclodePagamento
+# React With Redux billingCycle
 Front End application to show user control and use of react with redux and the use of components.
 Made based on the classes of the teacher [Leonardo Moura Leitão](https://www.youtube.com/watch?v=5sMBYBRwJ5Q&list=PLDm7BSK-M5YleJFYqnxvs7DZruSPmCgya).
 
