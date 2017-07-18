@@ -48,7 +48,7 @@ It's the files:
 [dashboardActions.jsx](https://github.com/Cesar-Filho/ReactReduxCiclodePagamento/blob/master/src/dashboard/dashboardActions.jsx)
 
 If you do not want to use User for application, remove the import of the authOrApp file from the route and place the dashboard as 
-the main [route](https://github.com/Cesar-Filho/ReactReduxCiclodePagamento/blob/master/src/main/routes.jsx).
+the main [route](https://github.com/Cesar-Filho/ReactReduxCiclodePagamento/blob/master/src/main/routes.jsx). Change the route in your [nodejs API](https://github.com/Cesar-Filho/BackendBillingCycle/blob/master/src/config/routes.js) application.
 
 More details in the [react-router](https://github.com/ReactTraining/react-router) documentation
 
