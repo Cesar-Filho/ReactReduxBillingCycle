@@ -29,7 +29,7 @@ and save the file.
 
 #### Application Front End
 ```sh
-git clone https://github.com/Cesar-Filho/ReactReduxCiclodePagamento.git
+git clone https://github.com/Cesar-Filho/ReactReduxBillingCycle.git
 cd ReactReduxCiclodePagamento
 npm install
 npm run dev
